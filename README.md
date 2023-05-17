@@ -58,6 +58,6 @@ We use state feedback controller to Stabilization this sytem, but befor applying
 
 ##### check report.pdf for more information about project.
 ##### Contributers :
-- Reyahaneh Ahani
 - Forough Afkhami
+- Reyhaneh Ahani
 - Fatemh Rafiee
