@@ -27,7 +27,7 @@ Applying force to a cart is a common problem in control engineering. This system
 ## Poles and Zeros
 This system has a right hand side zero and pole, so this system is non-minimum phase and unstable.
 
-## Step response of pendulum and cart (befor applying a controller)
+## Step response of pendulum and cart (befor applying controller)
 <img width="337" alt="Screen Shot 1402-02-28 at 00 11 29" src="https://github.com/ReyhanehAhani/Inverted_Pendulum/assets/88882191/78a36755-4077-43ae-8670-48b8508512e4">
 
 
@@ -39,7 +39,7 @@ We use state feedback controller to Stabilization this sytem, but befor applying
 <img width="364" alt="Screen Shot 1402-02-28 at 00 13 09" src="https://github.com/ReyhanehAhani/Inverted_Pendulum/assets/88882191/c03e7656-6723-42ff-84a7-d760dffd3d51">
 
 
-## Step response after applying the controller
+## Step response after applying controller
 
 <img width="507" alt="Screen Shot 1402-02-28 at 00 13 40" src="https://github.com/ReyhanehAhani/Inverted_Pendulum/assets/88882191/65fe4669-f130-489f-8460-0203a7ed393d">
 
