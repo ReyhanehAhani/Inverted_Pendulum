@@ -6,7 +6,7 @@ Applying force to a cart is a common problem in control engineering. This system
 - Linearization of nonlinear pendulum equations
 - Obtaining the transformation function and the state space model of the system
 - Obtaining dominant poles
-- plotting root locus, neyquist, bode graph 
+- plotting root locus, nyquist, bode graph 
 
 <img width="227" alt="Screen Shot 1402-02-27 at 23 31 17" src="https://github.com/ReyhanehAhani/Inverted_Pendulum/assets/88882191/a7b19121-4b58-425a-8d66-5f14373211a1">
 
