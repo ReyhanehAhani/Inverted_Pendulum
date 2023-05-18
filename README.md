@@ -13,7 +13,7 @@ Applying force to a cart is a common problem in control engineering. This system
 
 ## 
 
-## Linearized equations and state 
+## Linearized equations and state space matrixes 
 
 <img width="392" alt="Screen Shot 1402-02-28 at 00 07 15" src="https://github.com/ReyhanehAhani/Inverted_Pendulum/assets/88882191/71ff767c-b4b3-415b-a9b0-b84b903b78a0">
 <img width="196" alt="Screen Shot 1402-02-28 at 00 07 29" src="https://github.com/ReyhanehAhani/Inverted_Pendulum/assets/88882191/6d52d6d6-0731-4795-ac96-1b5ef28ebbf1">
